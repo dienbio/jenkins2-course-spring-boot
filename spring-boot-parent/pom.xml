@@ -50,7 +50,7 @@
 			<dependency>
 				<groupId>com.google.guava</groupId>
 				<artifactId>guava</artifactId>
-				<version>18.0</version>
+				<version>32.0.0-android</version>
 			</dependency>
 			<dependency>
 				<groupId>com.squareup.okhttp</groupId>
@@ -351,7 +351,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -370,7 +370,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -390,7 +390,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -411,7 +411,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -432,7 +432,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -453,7 +453,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -867,8 +867,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
@@ -896,8 +896,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
